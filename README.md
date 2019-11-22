@@ -7,7 +7,8 @@ Improving the Performance in the Statistical Redistribution of Message Symbols u
 </details>
 
 <details open>   
-<summary> 2. <a href="https://wittline.github.io/Multiprocessing/Multiprocessing/Pages/Multiprocessing.html">Code Multiprocessing </a></summary>   
+<summary> 2. <a href="https://wittline.github.io/Multiprocessing/Pages/Multiprocessing.html">Code </a></summary>
+     
 </details>
 
 <details open>   
