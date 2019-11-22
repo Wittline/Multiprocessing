@@ -20,8 +20,8 @@ It is important to highlight that the choice of the K factor is based on the one
 </details>
 
 
-![alt text](https://wittline.github.io/Multiprocessing/Images/Grafica2.png)
-![alt text](https://wittline.github.io/Multiprocessing/Images/grafica1.png)
+![alt text](https://wittline.github.io/Multiprocessing/Images/Grafica2.PNG)
+![alt text](https://wittline.github.io/Multiprocessing/Images/grafica1.PNG)
 ![alt text](https://wittline.github.io/Computer-Vision-and-Deep-Learning/Visi%C3%B3n%20Computacional%20y%20Deep%20Learning/Tarea%201/ejemplos/baboon_TP.png)
 
 ## Contributing and Feedback
