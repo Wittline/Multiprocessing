@@ -22,7 +22,6 @@ It is important to highlight that the choice of the K factor is based on the one
 
 ![alt text](https://wittline.github.io/Multiprocessing/Images/Grafica2.PNG)
 ![alt text](https://wittline.github.io/Multiprocessing/Images/grafica1.PNG)
-![alt text](https://wittline.github.io/Computer-Vision-and-Deep-Learning/Visi%C3%B3n%20Computacional%20y%20Deep%20Learning/Tarea%201/ejemplos/baboon_TP.png)
 
 ## Contributing and Feedback
 Help me to improve, you can insult me, criticize me, eulogy me or just copy and paste my homework :)
