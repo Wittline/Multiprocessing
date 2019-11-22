@@ -17,7 +17,7 @@ The architectural design pattern for parallel programming called geometric decom
 
 It is important to highlight that the choice of the K factor is based on the one that offers the best compression, but when we choose a K factor very far from its consecutive one using large files perhaps the parallelism may degrade the performance. Sometimes it is a good decision to add some noise to the original message since this way you can get closer K factors, and this would be another topic of research.
 
-![alt text](https://wittline.github.io/Multiprocessing/Images/grafica1.PNG)
+![alt text](https://wittline.github.io/Multiprocessing/Images/Grafica2.PNG)
 
 </details>
 
