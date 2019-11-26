@@ -27,6 +27,6 @@ It is important to highlight that the choice of the K factor is based on the one
 Help me to improve, you can insult me, criticize me, eulogy me or just copy and paste my homework :)
 
 ## Authors
-- Created by Ramses Alexander Coraspe Valdez
-- Created on 2019
+### Created by Ramses Alexander Coraspe Valdez
+### Created on 2019
 
