@@ -3,11 +3,7 @@ Improving the Performance in the Statistical Redistribution of Message Symbols u
 
 
 <details open>   
-<summary> 1. <a href="https://wittline.github.io/Multiprocessing/Multiprocessing/Pages/paper.pdf">Paper </a></summary>   
-</details>
-
-<details open>   
-<summary> 2. <a href="https://wittline.github.io/Multiprocessing/Pages/Multiprocessing.html">Code </a></summary>               
+<summary> 1. <a href="https://wittline.github.io/Multiprocessing/Pages/Multiprocessing.html">Code </a></summary>               
 </details>
 
 <details open>   
