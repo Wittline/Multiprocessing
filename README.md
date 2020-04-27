@@ -23,9 +23,12 @@ It is important to highlight that the choice of the K factor is based on the one
 ![alt text](https://wittline.github.io/Multiprocessing/Images/grafica1.PNG)
 
 ## Contributing and Feedback
-Help me to improve, you can insult me, criticize me, eulogy me or just copy and paste my homework :)
+Any ideas or feedback about this repository?. Help me to improve it.
 
 ## Authors
-### Created by Ramses Alexander Coraspe Valdez
-### Created on 2019
+- Created by <a href="https://www.linkedin.com/in/ramsescoraspe"><strong>Ramses Alexander Coraspe Valdez</strong></a>
+- Created on 2019
+
+## License
+This project is licensed under the terms of the MIT license.
 
