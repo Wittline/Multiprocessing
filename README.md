@@ -18,7 +18,6 @@ It is important to highlight that the choice of the K factor is based on the one
 
 </details>
 
-
 ![alt text](https://wittline.github.io/Multiprocessing/Images/Grafica2.PNG)
 ![alt text](https://wittline.github.io/Multiprocessing/Images/grafica1.PNG)
 
